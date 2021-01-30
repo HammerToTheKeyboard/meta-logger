@@ -1,0 +1,5 @@
+{
+    "botToken": "Nzk0NjUxMTI2NDY0Nzc0MTc0.X-96iA.pVwFxWAaOL5Qyxr9Bg8z_jDL8LY",
+    "prefix": "!",
+    "dbUrl": "mongodb+srv://root:root@cluster0.x3xib.mongodb.net/DiscordxMpl?retryWrites=true&w=majority"    
+}
